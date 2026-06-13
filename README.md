@@ -18,7 +18,3 @@ An exploratory data analysis (EDA) project on Diwali sales data in India using P
 - NumPy
 - Matplotlib
 - Seaborn
-
-## 🚀 How to Run
-
-1. Clone the repo:
