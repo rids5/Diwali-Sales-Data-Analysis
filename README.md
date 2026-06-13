@@ -18,3 +18,10 @@ An exploratory data analysis (EDA) project on Diwali sales data in India using P
 - NumPy
 - Matplotlib
 - Seaborn
+
+## 🔍 Key Findings
+- Female buyers drive higher revenue than male buyers
+- The 26–35 age group is the most profitable segment
+- Uttar Pradesh leads all states in orders and revenue
+- Electronics & Gadgets is the top revenue category
+- Married women aged 26–35 in IT/Healthcare are the ideal Diwali buyer persona
